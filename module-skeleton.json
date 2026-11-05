@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-usage-wallet-and-rebilling-nuxt",
+  "capabilityKey": "liberusoftware/module-crm-usage-wallet-and-rebilling",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-crm-usage-wallet-and-rebilling-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/crm/nextjs/usage-wallet-and-rebilling.md",
+  "presentationPlan": "projects/crm/nuxt/usage-wallet-and-rebilling.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
